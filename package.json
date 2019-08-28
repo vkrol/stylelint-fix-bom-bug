@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "check-bom": "node check-bom",
+    "fix": "stylelint index.css --fix"
+  },
+  "devDependencies": {
+    "has-bom": "0.1.0",
+    "stylelint": "10.1.0"
+  }
+}
